@@ -9,9 +9,9 @@
 .container{
     margin-top:3%;
     width: 65%;
-    margin-left: 15%;
+    margin-left: 17%;
     display: flex;
-    border: 1px solid rgb(54, 54, 54);
+    border: 1px solid rgb(156, 156, 156);
     border-radius:5px;
     margin-bottom:4%;
 }
@@ -33,9 +33,10 @@
 .body>p{
     margin-left: 5%;
     margin: top 0.5em;
-    font-weight:450;
-    font-size: 1em;
     color: rgb(3, 46, 138) ;
+    font-size: 14px;
+    font-weight: 600;
+    display: inline-block;
 }
 .addresses i{
     font-size: 1em;
@@ -70,7 +71,8 @@
 
 .intro{
     margin-left: 5%;
-    margin-top:1.5em;
+    margin-top:2em;
+    margin-bottom:2em;
     width:115%;
     font-size: 13px;
 }
@@ -89,10 +91,12 @@
     padding-right: 0.5em;
     padding-top: 0.3em;
     padding-bottom: 0.3em;
+
 }
 .experience .div{
     width:8%;
 }
+
 .ex1{
     margin-left: 1em;
 }
@@ -105,6 +109,7 @@
     font-size: 14px;
     font-weight: 600;
     display: inline-block;
+    margin-top:1em;
 }
 
 .ex1 .project{
@@ -117,4 +122,108 @@
 }
 .ex1 li{
     font-size: 13px;
+}
+.lang{
+    font-size: 1em;
+    font-weight: 700;
+    color: rgb(3, 46, 138);
+    display:block;
+    margin-left:1em;
+}
+.ex2{
+    width: 60%;
+    display: flex;   
+    margin-left: 13%;
+    margin-top: 0.5em;
+}
+.ex2 div{
+    width: 50%;
+    margin-left: 10%;
+}
+.ex2 div li{
+    font-size:13px;
+}
+.line{
+    width: 0.1em;
+    position: absolute;
+    background: rgb(3, 46, 138) ;
+    height: 293px;
+    margin-left: 2.5em;
+    margin-top: 1.3em;
+}
+.line1{
+    width: 0.1em;
+    position: absolute;
+    background: rgb(3, 46, 138) ;
+    height: 177px;
+    margin-left: 2.5em;
+    margin-top: 21em;
+}
+.line2{
+    width: 0.1em;
+    position: absolute;
+    background: rgb(3, 46, 138);
+    height: 170px;
+    margin-left: 2.5em;
+    margin-top: 33em;
+}
+.line3{
+    width: 0.1em;
+    position: absolute;
+    background:  rgb(3, 46, 138);
+    height: 50px;
+    margin-left: 2.5em;
+    margin-top: 45em;
+}
+.line4{
+    width: 10px;
+    position: absolute;
+    background: rgb(3, 46, 138) ;
+    height: 10px;
+    margin-left: 2.25em;
+    margin-top: 2.8em;
+    border-radius: 50%;
+}
+.line5{
+    width: 10px;
+    position: absolute;
+    background: rgb(3, 46, 138) ;
+    height: 10px;
+    margin-left: 2.25em;
+    margin-top: 12em;
+    border-radius: 50%;
+}
+.line6{
+    width: 10px;
+    position: absolute;
+    background: rgb(3, 46, 138) ;
+    height: 10px;
+    margin-left: 2.25em;
+    margin-top: 22.7em;
+    border-radius: 50%;
+}
+
+.date{
+    margin-left: 40%;
+    margin-top: 31.3em;
+    color: rgb(255, 255, 255) ;
+    font-size: 12px;
+    font-weight: 600;
+    display: inline-block;
+}
+.date1{
+    margin-left: 40%;
+    margin-top: 10.5em;
+    color: rgb(255, 255, 255) ;
+    font-size: 12px;
+    font-weight: 600;
+    display: inline-block;
+}
+.date2{
+    margin-left: 40%;
+    margin-top: 12.7em;
+    color: rgb(255, 255, 255) ;
+    font-size: 12px;
+    font-weight: 600;
+    display: inline-block;
 }
