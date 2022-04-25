@@ -2,9 +2,53 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: "JetBrains Mono",monospace;
+    
 }
 
 .container{
-    width: 60%;
+    margin-top:3%;
+    width: 65%;
+    height: 600px;
     margin-left: 15%;
+    display: flex;
+    border: 1px solid rgb(54, 54, 54);
+    border-radius:5px;
+    margin-bottom:4%;
+}
+.container .dates{
+    width: 25%;
+    background-color:rgb(3, 46, 138);
+}
+.container .body{
+    width: 60%;
+    padding:1em;
+}
+h2{
+    font-weight:700;
+}
+.body div i{
+    font-size: 0.8em;
+    color:rgb(255, 255, 255);
+    background-color:rgb(3, 46, 138) ;
+    border-radius:50%;
+    padding: 0.4em;
+}
+.addresses{
+    width: 100%;
+    margin-top:1em;
+    display: flex;
+    flex-direction: column;
+}
+.addresses>div{
+    width:90%;
+    font-size: 13px;
+    display: flex;
+    margin-top:0.6em;
+}
+.d1 div{
+    width: 50%;
+}
+.d2 div{
+    width: 50%;
 }
