@@ -9,7 +9,6 @@
 .container{
     margin-top:3%;
     width: 65%;
-    height: 600px;
     margin-left: 15%;
     display: flex;
     border: 1px solid rgb(54, 54, 54);
@@ -24,14 +23,19 @@
     width: 60%;
     padding:1em;
 }
-h2{
+.body>h2{
     font-weight:600;
+    margin-left: 5%;
+    margin-top:5%;
+    color: rgb(3, 46, 138) ;
 
 }
 .body>p{
+    margin-left: 5%;
     margin: top 0.5em;
     font-weight:450;
     font-size: 1em;
+    color: rgb(3, 46, 138) ;
 }
 .addresses i{
     font-size: 1em;
@@ -45,6 +49,7 @@ h2{
     margin-right: 0.5em;
 }
 .addresses{
+    margin-left: 5%;
     width: 100%;
     margin-top:1em;
     display: flex;
@@ -64,8 +69,52 @@ h2{
 }
 
 .intro{
+    margin-left: 5%;
     margin-top:1.5em;
-    /* background-color:antiquewhite; */
-    width:125%;
+    width:115%;
+    font-size: 13px;
+}
+.experience{
+    margin-left: 5%;
+    margin-top:1.5em;
+    display:flex;
+    flex-direction:row;
+}
+.experience i {
+    font-size: 1.06em;
+    color:rgb(255, 255, 255);
+    background-color:rgb(3, 46, 138) ;
+    border-radius:50%;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+}
+.experience .div{
+    width:8%;
+}
+.ex1{
+    margin-left: 1em;
+}
+.ex1 h2{
+    font-size: 1em;
+    font-weight: 700;
+    color: rgb(3, 46, 138) ;
+}
+.ex1 h3{
+    font-size: 14px;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.ex1 .project{
+    font-style: italic;
+    font-size:12px;
+}
+.ex1 div{
+    margin-left: 1em;
+    margin-top: 0.5em;
+}
+.ex1 li{
     font-size: 13px;
 }
