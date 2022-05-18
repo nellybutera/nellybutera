@@ -13,8 +13,6 @@
   
 - 🕘 Currently learning: Java, Springboot, Aftereffects and creating web designs.
   
-- 📞 You can reach me via my email buteranelly250@gmail.com
-  
 - 🚖 Fun fact: I'm lovers with music,🎵🎵 trying out new things and sometimes I find challenges exciting.
   
 <h4>Connect with me : <br><br>
