@@ -5,7 +5,7 @@
   <h3> Hello I am 🅽🅴🅻🅻🆈! Nice to meet you😄</h3>
   
  <br>
-  <p>It turns out that quality programming skills in the hands of a developer are a super power⚡ Only a few years ago I found out that you can make a computer do whatever you want it to. There's always a way! And when you find it, there couldn't be any greater joy for a programmer.</p>
+  <p>It turns out that programming skills are like a super power for a developer⚡ Only a few years ago I found out that you can make a computer do whatever you want it to. There's always a way! And when you find it, there couldn't be any greater joy for a programmer.</p>
   <br>
 
   
