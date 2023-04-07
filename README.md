@@ -2,16 +2,12 @@
 <head>
 </head>
 <body>
-  <h3> Hello I am 🅽🅴🅻🅻🆈! I'm glad we met😄</h3>
-  
- <br>
+  <h3> Hello I am 🅽🅴🅻🅻🆈! Glad to meet you😄</h3>
   <p>I didn't know learning about technology could be this fun</p>
-
+<br>
   
-- 🚀 Looking to work on more practical projects.
-  
+- 🚀 Looking to work on more practical projects.  
 - 🕘 Currently learning about: Devops & Mobile Development, Network Security, Graphics Designer and sharpening full stack developer skills.
-  
 - 🚖 Fun fact: I'm lovers with music,🎵🎵 trying out new things.
   
 <h4>Connect with me : <br><br>
