@@ -4,6 +4,7 @@
 <body>
   <h3> Hello I am 🅽🅴🅻🅻🆈! Glad to meet you😄</h3>
   <p>I didn't know learning about technology could be this fun</p>
+  
 - 🚀 Looking to get hands-on experience by working on all kinds of tech projects.  
 - 🕘 Currently learning about: Devops & Mobile Development, Network Security, Graphics Designer and sharpening my full stack developer skills.
 - 🚖 Fun fact: In love with music && 🎵🎵 trying out new things.
