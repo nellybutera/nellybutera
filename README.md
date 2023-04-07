@@ -7,7 +7,7 @@
 <br>
   
 - 🚀 Looking to work on more practical projects.  
-- 🕘 Currently learning about: Devops & Mobile Development, Network Security, Graphics Designer and sharpening full stack developer skills.
+- 🕘 Currently learning about: Devops & Mobile Development, Network Security, Graphics Designer and sharpening my full stack developer skills.
 - 🚖 Fun fact: In love with music && 🎵🎵 trying out new things.
   
 <h4>Connect with me : <br><br>
