@@ -6,7 +6,7 @@
   <p>I didn't know learning about technology could be this fun</p>
   
 - 🚀 Looking to get more hands-on experience by working on more tech projects.  
-- 🕘 Currently learning about: Devops & Mobile Development, Network Security, Graphics Designer and sharpening my full stack developer skills.
+- 🕘 Currently learning about: Devops & Mobile Development, Network Security, Graphics Designing and sharpening my full stack developer skills.
 - 🚖 Fun fact: In love with music 🎵🎵 && Trying out new things.
   
 <h4>Connect with me : <br><br>
